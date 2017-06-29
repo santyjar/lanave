@@ -1,0 +1,615 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"lighter"
+			],
+			[
+				"selecc",
+				"seleccionarXPadre"
+			],
+			[
+				"fech",
+				"fech_modificado"
+			],
+			[
+				"fec",
+				"fech_modificado"
+			],
+			[
+				"seleccionar",
+				"seleccionarXUrl"
+			],
+			[
+				"menu",
+				"menuAnt"
+			],
+			[
+				"select",
+				"selected"
+			],
+			[
+				"tipo",
+				"tipoParametro"
+			],
+			[
+				"carrera",
+				"carreraId"
+			],
+			[
+				"call_user_func",
+				"call_user_func_array"
+			],
+			[
+				"text",
+				"textarea\tTag"
+			],
+			[
+				"background",
+				"background-repeat"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"t",
+				"td\tTag"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"medida",
+				"medidaAnt"
+			],
+			[
+				"first",
+				"first-child"
+			],
+			[
+				"marker",
+				"markerYrigoyen"
+			],
+			[
+				"infoWindo",
+				"infowindow"
+			],
+			[
+				"translate",
+				"translateY"
+			],
+			[
+				"MAt",
+				"Materia_ID"
+			],
+			[
+				"pp",
+				"pp_presencial"
+			],
+			[
+				"materia",
+				"materia_id"
+			],
+			[
+				"comisionma",
+				"comisionmateria"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1736,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 96.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/lanave",
+		"/var/www/html/lanave/css",
+		"/var/www/html/lanave/fonts",
+		"/var/www/html/lanave/img"
+	],
+	"file_history":
+	[
+		"/var/www/html/lanave/css/estilos.css",
+		"/var/www/html/lanave/index.html",
+		"/tmp/fz3temp-1/pm_formadepago.php",
+		"/var/www/html/lanave/proyecto/notas",
+		"/var/www/html/lafundacion/public/css/estilos.css",
+		"/var/www/html/lafundacion/app/modelos/bd/bd_menu.php",
+		"/var/www/html/lafundacion/app/vistas/section-menu-editar.php",
+		"/var/www/html/lafundacion/app/controladores/ctrlmenu.php",
+		"/var/www/html/lafundacion/app/includes/funciones.php",
+		"/var/www/html/lafundacion/app/includes/funciones_vistas.php",
+		"/var/www/html/lafundacion/app/modelos/menu.php",
+		"/tmp/fz3temp-1/examen.php",
+		"/tmp/fz3temp-1/funciones.php",
+		"/tmp/fz3temp-1/grilla_fechas_finales_pendientes.php",
+		"/tmp/fz3temp-1/inscripcion.php",
+		"/var/www/html/lafundacion/app/ajax/menu-editar.php",
+		"/var/www/html/lafundacion/public/js/funciones.js",
+		"/var/www/html/lafundacion/app/includes/inc-bd.php",
+		"/var/www/html/lafundacion/app/ajax/pagina-editar.php",
+		"/var/www/html/lafundacion/app/vistas/section-menu-nuevo.php",
+		"/var/www/html/lafundacion/app/modelos/pagina.php",
+		"/var/www/html/lafundacion/app/vistas/head-menu.php",
+		"/tmp/fz3temp-1/grilla_fechas_finales.php",
+		"/var/www/html/lafundacion/app/vistas/section-menu-listar.php",
+		"/tmp/fz3temp-1/db.php",
+		"/tmp/fz3temp-1/wp-config.php",
+		"/tmp/fz3temp-1/kioscoinscripcionpendientes.php",
+		"/var/www/html/lafundacion/app/controladores/ctrlhome.php",
+		"/var/www/html/lafundacion/app/vistas/header2.php",
+		"/var/www/html/lafundacion/app/vistas/header.php",
+		"/var/www/html/lafundacion/app/ajax/categoria-editar.php",
+		"/var/www/html/lafundacion/app/ajax/categoria-nueva.php",
+		"/var/www/html/lafundacion/app/ajax/categoria-borrar.php",
+		"/var/www/html/lafundacion/app/modelos/bd/bd_categoria.php",
+		"/var/www/html/lafundacion/app/vistas/header-usuario.php",
+		"/var/www/html/lafundacion/app/modelos/categoria.php",
+		"/var/www/html/lafundacion/app/vistas/section-categorias-nueva.php",
+		"/var/www/html/lafundacion/app/vistas/section-categorias-editar.php",
+		"/var/www/html/lafundacion/app/vistas/section-pagina-listar.php",
+		"/var/www/html/lafundacion/app/vistas/section-categorias-listar.php",
+		"/var/www/html/lafundacion/app/vistas/section-pagina-nuevo.php",
+		"/var/www/html/lafundacion/app/controladores/ctrlcategoria.php",
+		"/var/www/html/lafundacion/app/controladores/ctrlpagina.php",
+		"/var/www/html/lafundacion/app/ajax/pagina-borrar.php",
+		"/var/www/html/lafundacion/app/modelos/bd/bd_pagina.php",
+		"/var/www/html/kiosco_php/tutor-parciales-desaprobados/clases/alerta.php",
+		"/var/www/html/lafundacion/app/modelos/bd/bd_articulo.php",
+		"/var/www/html/lafundacion/app/modelos/articulo.php",
+		"/var/www/html/lafundacion/app/ajax/pagina-nueva.php",
+		"/var/www/html/lafundacion/app/vistas/section-pagina-editar.php",
+		"/tmp/fz3temp-1/index.php",
+		"/var/www/html/lafundacion/app/vistas/head.php",
+		"/var/www/html/kiosco_php/clases/clase.php",
+		"/var/www/html/lafundacion/app/modelos/usuario.php",
+		"/var/www/html/lafundacion/app/modelos/etiqueta.php",
+		"/var/www/html/kiosco_php/includes/funciones.php",
+		"/var/www/html/lafundacion/app/modelos/bd/bd_etiqueta.php",
+		"/var/www/html/lafundacion/app/vistas/section-carreras-post.php",
+		"/var/www/html/test/test-errores.php",
+		"/var/www/html/lafundacion/app/includes/inc-extras.php",
+		"/var/www/html/lafundacion/app/includes/inc-modelos.php",
+		"/var/www/html/lafundacion/index.php",
+		"/var/www/html/test/test-explode.php",
+		"/var/www/html/lafundacion/app/vistas/section-usuario-login.php",
+		"/var/www/html/kiosco_php/includes/config.php",
+		"/var/www/html/lafundacion/app/includes/config.php",
+		"/var/www/html/kiosco_php/clases/asistencia.php",
+		"/var/www/html/kiosco_php/clases/fecha.php",
+		"/var/www/html/kiosco_php/clases/beneficio.php",
+		"/var/www/html/kiosco_php/clases/turno.php",
+		"/var/www/html/kiosco_php/clases/bd/bd_asistencia.php",
+		"/var/www/html/lafundacion/app/controladores/ctrlcarreras.php",
+		"/var/www/html/lafundacion/app/controladores/ctrlarticulo.php",
+		"/var/www/html/lafundacion/app/core/app.php",
+		"/var/www/html/lafundacion/app/modelos/bd/bd_usuario.php",
+		"/var/www/html/lafundacion/app/ajax/usuario-login.php",
+		"/var/www/html/lafundacion/app/controladores/controlador.php",
+		"/var/www/html/lafundacion/app/controladores/ctrlusuario.php",
+		"/tmp/fz3temp-1/footer.php",
+		"/tmp/fz3temp-1/style.css",
+		"/tmp/fz3temp-1/estilos.css",
+		"/var/www/html/lafundacion/app/vistas/slider-carreras-post.php",
+		"/tmp/fz3temp-1/mod_datosalumno.php",
+		"/tmp/fz3temp-1/shortcode.php",
+		"/tmp/fz3temp-1/kiosco.php",
+		"/tmp/fz3temp-1/alumno.php",
+		"/var/www/html/lafundacion/app/modelos/bd/bd_articulos.php",
+		"/var/www/html/kiosco_php/clases/bd/bd_beneficio.php",
+		"/var/www/html/lafundacion/app/includes/coneccion.php",
+		"/var/www/html/lafundacion/.htaccess",
+		"/var/www/html/kiosco_php/clases/bd/bd_abstract.php",
+		"/var/www/html/kiosco_php/tutor-parciales-desaprobados/clases/bd/bd_alerta_alumno.php",
+		"/var/www/html/lafundacion/app/controladores/ctrlphpinfo.php",
+		"/var/www/html/lafundacion/app/ajax/articulo-editar.php",
+		"/tmp/fz3temp-1/turnos.php",
+		"/tmp/fz3temp-1/mifaecc-turnos.php",
+		"/tmp/fz3temp-1/esperando-turno.php",
+		"/var/www/html/lafundacion/app/modelos/alumno.php",
+		"/tmp/fz3temp-1/class-wc-shortcodes.php",
+		"/tmp/fz3temp-1/woocommerce.php",
+		"/var/www/html/cristalesalfonso/cristalesalfonso.sublime-project",
+		"/tmp/fz3temp-1/ajax_matriculado.php",
+		"/tmp/fz3temp-1/mifaecc-admlafundacion.php",
+		"/tmp/fz3temp-1/alumnosnuevos.php",
+		"/tmp/fz3temp-1/conexion_elserver.php",
+		"/tmp/fz3temp-1/bckginsc.php",
+		"/tmp/fz3temp-1/shortcodes.php",
+		"/tmp/fz3temp-1/pm_ingresodatos.php",
+		"/tmp/fz3temp-1/kioscoinscripcion_inscripcion.php",
+		"/tmp/fz3temp-1/form_mensajes.php",
+		"/tmp/fz3temp-1/form_mensajes_accion.php",
+		"/tmp/fz3temp-1/bienvenida_inscripcion.php",
+		"/tmp/fz3temp-1/kioscodirectores.php",
+		"/var/www/html/lafundacion/app/ajax/articulo-borrar.php",
+		"/tmp/fz3temp-1/header.php",
+		"/tmp/fz3temp-1/newalumno2.php",
+		"/var/www/html/lafundacion/app/vistas/section-articulos-editar.php",
+		"/tmp/fz3temp-1/class-wc-widget-product-categories.php",
+		"/tmp/fz3temp-1/matricular.php",
+		"/var/www/html/lafundacion/app/vistas/section-articulos-listar.php",
+		"/var/www/html/lafundacion/app/ajax/articulo-nuevo.php",
+		"/var/www/html/lafundacion/app/vistas/section-articulos-nuevo.php",
+		"/tmp/fz3temp-1/breadcrumb.php",
+		"/tmp/fz3temp-1/newalumno.php",
+		"/tmp/fz3temp-1/terminosycondiciones.php",
+		"/var/www/html/lafundacion/app/modelos/articulo_old.php",
+		"/var/www/html/lafundacion/app/modelos/categoria_old.php",
+		"/tmp/fz3temp-1/intro_newalumno.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"insert",
+			"buscarMenu",
+			"old",
+			"box-shado",
+			"menuEditar",
+			"form-control",
+			"MenusJson",
+			"comprobarMatriculaCarrera",
+			"categoria",
+			"categor",
+			"cant",
+			"categoria",
+			"borrar",
+			"pagina",
+			"ARticulos",
+			"pagina",
+			"descrip",
+			"habilitado",
+			"artid",
+			"data-",
+			"artid",
+			"nuevo",
+			"pagina",
+			"panel-carrera",
+			"alert",
+			".panel-carrera textarea.form-control {",
+			".table",
+			"_a",
+			"echo",
+			"var",
+			"facebook",
+			"){\n",
+			"MenuBd",
+			"modificar",
+			"product_categories",
+			"enviarAjax",
+			"matriculado",
+			"ajax",
+			"$(",
+			"ID",
+			"mensajes",
+			"matricular",
+			"faecc",
+			"web_alumno_nuevo.NRODOCPADRE",
+			"bckin",
+			"web_alumno_nuevo.NRODOC",
+			"select",
+			"reportarError",
+			"error1_sql",
+			"id",
+			"borrar",
+			"modificar",
+			"sele",
+			"agregar",
+			"var_",
+			"var_d",
+			"echo",
+			"bd",
+			"home",
+			"espa",
+			"sec",
+			"nombre",
+			"seleccionar",
+			"//$",
+			"file_exists",
+			"$flag",
+			"flag",
+			"\".\";\n",
+			"991px",
+			"97",
+			"ordenarPorOrden",
+			"array_values",
+			"body",
+			"margin-bottom",
+			"body",
+			"margin-bottom",
+			"body",
+			"promo-panel",
+			"body",
+			"h2",
+			"h1",
+			"email",
+			"mail",
+			"modalError",
+			"circulos",
+			"carrera",
+			"var",
+			"2016",
+			"seleccionarProfesores",
+			"pree",
+			"modulo",
+			"tarde",
+			"promo",
+			"font",
+			"novedades",
+			"yrigo",
+			"yrig",
+			"150px",
+			"15px",
+			"modificarOrden",
+			"agregar(",
+			"borrar",
+			"+1",
+			"orden",
+			"agregarSubmenu",
+			"modificarOrden",
+			"agregarSubmenu",
+			"menu",
+			"modificarOrden",
+			"agregar",
+			"modificarPadre",
+			"agregar",
+			"nuevo",
+			"idHijo",
+			"borrarp",
+			"borrarSubmenu",
+			"3",
+			"modificar",
+			"modificarMenuAnterior",
+			"setpadre",
+			"padre",
+			"var_",
+			"padre",
+			"setPadre",
+			"modificar",
+			"select",
+			"var",
+			"change"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$where = \"\";\n\t\t$issetwhere = false;\n\t\t\n\t\tif($ids!=false){\n\t\t\t//Cargo todos los tipos de parametro para el bind_param\n\t\t\t$issetwhere = true;\n\t\t\t$tipoParametro = \"\";\n\t\t\t$count = count($ids);\n\t\t\t$where = \" WHERE id in (\";\n\n\t\t\tforeach($ids as $i=>$id){\n\t\t\t\t\n\t\t\t\t$ids[$i] = $id*1;\n\n\t\t\t\t$where .=\"?\";\n\t\t\t\t$count--;\n\t\t\t\tif($count!=0){\n\t\t\t\t\t$where .= \",\";\n\t\t\t\t}\n\n\t\t\t\t$tipoParametro .= \"i\";\n\t\t\t}\n\t\t\t$where .= \")\";\n\n\t\t\tarray_unshift($ids,$tipoParametro);\n\t\t}\n\n\t\tif($url!=false){\n\t\t\t//Cargo todos los tipos de parametro para el bind_param de url\n\n\t\t\tif($issetWhere){\n\n\t\t\t\t$where .=\" AND\";\n\t\t\t}else{\n\t\t\t\t$issetWhere = true;\n\t\t\t\t$where .= \" WHERE\";\n\t\t\t}\n\n\t\t\t$where .= \" url=?\";\n\t\t\t$tipoParametro .= \"s\";\n\t\t\t$params[] = $url;\n\t\t}\n\n\t\t$q = \"\n\t\t\tSELECT id,titulo,fech_modif,habilitado,etiqueta,categoria FROM pagina\".$where;\n\n\t\t$stmt = $this->coneccion->prepare($q);\n\t\techo $q;\n\t\t\n\t\tif($ids!=false){\n\t\t\tcall_user_func_array(array($stmt,\"bind_param\"), refValues($ids));\n\t\t}\n\t\t$stmt->execute();\n\t\t$stmt->bind_result($id,$titulo,$fech_modif,$habilitado,$etiqueta,$categoria);\n\t\t\n\t\t$paginas = array();\n\n\t\twhile($stmt->fetch()){\n\t\t\t$paginas[$id] = new Pagina($this->coneccion,$id,$titulo,$fech_modif,$habilitado,$etiqueta,$categoria);\n\t\t}\n\t\t\n\t\t$stmt->close();\n\t\treturn $paginas;\n\t}"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1736,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								921,
+								921
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "lanave.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bd_menu",
+				"app/modelos/bd/bd_menu.php"
+			],
+			[
+				"menu.",
+				"app/modelos/menu.php"
+			],
+			[
+				"ctrlmenu",
+				"app/controladores/ctrlmenu.php"
+			],
+			[
+				"ajax",
+				"app/ajax/menu-editar.php"
+			],
+			[
+				"section-menu",
+				"app/vistas/section-menu-editar.php"
+			],
+			[
+				"css",
+				"public/css/estilos.css"
+			],
+			[
+				"pagina-editar",
+				"app/ajax/pagina-editar.php"
+			],
+			[
+				"editar",
+				"app/ajax/menu-editar.php"
+			],
+			[
+				"inc-",
+				"app/includes/inc-bd.php"
+			],
+			[
+				"funciones",
+				"public/js/funciones.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "lafunda",
+		"selected_items":
+		[
+			[
+				"lafunda",
+				"/var/www/html/lafundacion/lafundacion.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
