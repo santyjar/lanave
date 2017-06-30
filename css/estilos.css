@@ -3,13 +3,30 @@
 	src: url(/lanave/fonts/DAYROM_.ttf) format("truetype");
 }
 
-body{
-	background-color: #F1F1F1;
+@font-face {
+	font-family: "Calibri";
+	src: url(/lanave/fonts/calibri.ttf) format("truetype");
 }
 
+@font-face {
+	font-family: "CalibriL";
+	src: url(/lanave/fonts/calibril.ttf) format("truetype");
+}
+
+body{
+	background-color: #F1F1F1;
+	font-family: Calibri, Arial;
+}
+
+.navbar {
+ 	margin-bottom:0px;
+ }
+
 .navbar-default .navbar-brand {
-	color: #777;
-	font-family: Dayrom;
+	font-family: Dayrom;	
+	font-size:30px;
+	color:#19a3e2;
+	float: none;
 }
 
 .navbar-default {
@@ -18,21 +35,26 @@ body{
 	border-bottom: 2px solid #19a3e2;
 	/*box-shadow:0 1px 2px #60A1BF;*/
 	border-radius:0;
+	font-size: 17px;
+	font-family: CalibriL, Arial;
+
 }
 
-.navbar-header{
-
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+    color: #19a3e2;
+    background-color: transparent;
 }
 
-.navbar-default .navbar-brand{
-	font-size:22px;
-	color:#19a3e2;
+.navbar-default .navbar-header {
+    float: left;
+    padding: 15px;
+    text-align: center;
+    width: 100%;
 }
 
 .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
 	color: #19a3e2;
 	background-color: transparent;
-	border-bottom: 2px solid #19a3e2;
 }
 
 @media (min-width: 768px){
@@ -41,4 +63,34 @@ body{
 		padding-bottom: 13px;
 		border-bottom: 2px solid transparent;
 	}
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.section-video-container{
+	width:100%;
+	height:500px;
+	overflow:hidden;
+	position:relative;
+}
+
+.section-video{
+	width:100%;
+}
+
+.section-video-cover{
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:500px;
+	background-color:rgba(255,255,255,0.2);
 }
