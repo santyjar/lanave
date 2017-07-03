@@ -122,6 +122,10 @@ section.container{
 	text-align: center;
 }
 
+.margin-label{
+	margin:10px;
+}
+
 .panel-top-left-label{
 	left:0;
 	top:0;
@@ -173,8 +177,8 @@ section.container{
 }
 
 .btn {
-    color: #19a3e2;
-    background-color: #fff;
+    color: #FFF;
+    background-color: #19a3e2;
     border-color: #19a3e2;
     border-radius:0;
 }
@@ -182,9 +186,13 @@ section.container{
 .btn.focus, .btn:focus, .btn:hover{
 	color: #fff;
     background-color: #19a3e2;
+    border-color:#19a3e2;
 }
 
 .btn-default.active, .btn-default:active, .open>.dropdown-toggle.btn-default {
     color: #fff;
     background-color: #19a3e2;
+    border-color:#19a3e2;
 }
+
+sidebar
